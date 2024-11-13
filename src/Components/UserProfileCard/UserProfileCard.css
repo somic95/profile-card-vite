@@ -1,0 +1,42 @@
+.card {
+    width: 350px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 0 0 20px;
+    box-shadow: 5px 10px 10px #888888;
+}
+.gradient {
+    background: linear-gradient(90deg, #902525, #ff0000);
+    height: 125px;
+    border-radius: 10px 10px 0 0;
+}
+.profile-down img {
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -75px;
+    padding: 5px;
+    background-color: #fff;
+}
+.profile-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #000;
+}
+.profile-decription {
+    padding: 20px 40px;
+    font-size: 16px;
+    color: #000;
+}
+.profile-button {
+    font-size: 16px;
+    background: linear-gradient(180deg, #590101, #810000);
+    margin: 10px 100px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+    font-weight: 600;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
